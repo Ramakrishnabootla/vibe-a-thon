@@ -1,6 +1,7 @@
 # vibe-a-thon
 
-#kindly visit branch/master to get all codes 
+# kindly visit branch/master to get all codes 
+
 This repository contains a modular and reusable React + TypeScript component for creating and managing AI prompts. It provides a user interface similar to platforms like OpenAI Playground or PromptFlow, allowing users to:
 
 Write and edit prompts with variable placeholders (e.g., {topic}).
