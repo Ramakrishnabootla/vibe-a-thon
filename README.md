@@ -124,5 +124,4 @@ This component is designed with open-source contributions in mind. If you plan t
 Replace the placeholder UI components in `src/components/ui` with the library's existing UI components or a chosen UI library (like ShadCN if not using raw Tailwind classes directly within the component).
 
 ## License
-
-[Specify your license here, e.g., MIT]
+https://github.com/Ramakrishnabootla
