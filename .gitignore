@@ -1,0 +1,3 @@
+// Add any files or directories you want Git to ignore here
+node_modules/
+.env 
